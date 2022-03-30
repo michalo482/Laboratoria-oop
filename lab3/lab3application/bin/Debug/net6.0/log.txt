@@ -1,0 +1,82 @@
+25.03.2022 18:29:55 Example message 1 ...plik
+25.03.2022 18:29:55 Example message 2 ...plik
+25.03.2022 18:29:55 Example message 3 ...plik
+25.03.2022 18:29:55 value 1plik
+25.03.2022 18:29:55 value 2plik
+25.03.2022 18:29:55 value 3plik
+25.03.2022 18:30:28 Example message 1 ... plik
+25.03.2022 18:30:28 Example message 2 ... plik
+25.03.2022 18:30:28 Example message 3 ... plik
+25.03.2022 18:30:28 value 1 plik
+25.03.2022 18:30:28 value 2 plik
+25.03.2022 18:30:28 value 3 plik
+
+25.03.2022 23:20:40 Example message 1 ... plik
+25.03.2022 23:21:22 Example message 1 ... plik
+25.03.2022 23:21:47 Example message 1 ... plik
+25.03.2022 23:21:47 Example message 2 ... plik
+25.03.2022 23:23:11 Example message 1 ... plik
+25.03.2022 23:23:11 Example message 2 ... plik
+25.03.2022 23:24:20 Example message 1 ... plik
+25.03.2022 23:24:20 Example message 2 ... plik
+26.03.2022 00:05:57 Example message 1 ... plik
+26.03.2022 00:05:57 Example message 2 ... plik
+26.03.2022 00:05:57 Example message 3 ... plik
+26.03.2022 00:05:57 value 1 plik
+26.03.2022 00:05:57 value 2 plik
+26.03.2022 00:05:57 value 3 plik
+26.03.2022 12:05:13 Example message 1 ... plik
+26.03.2022 12:05:13 Example message 2 ... plik
+26.03.2022 12:05:13 Example message 3 ... plik
+26.03.2022 12:05:13 value 1 plik
+26.03.2022 12:05:13 value 2 plik
+26.03.2022 12:05:13 value 3 plik
+26.03.2022 12:09:15 Example message 1 ... plik
+26.03.2022 12:09:15 Example message 2 ... plik
+26.03.2022 12:09:15 Example message 3 ... plik
+26.03.2022 12:09:15 value 1 plik
+26.03.2022 12:09:15 value 2 plik
+26.03.2022 12:09:15 value 3 plik
+26.03.2022 12:31:59 Example message 1 ... plik
+26.03.2022 12:31:59 Example message 2 ... plik
+26.03.2022 12:31:59 Example message 3 ... plik
+26.03.2022 12:31:59 value 1 plik
+26.03.2022 12:31:59 value 2 plik
+26.03.2022 12:31:59 value 3 plik
+26.03.2022 13:15:54 Example message 1 ... plik
+26.03.2022 13:15:54 Example message 2 ... plik
+26.03.2022 13:15:54 Example message 3 ... plik
+26.03.2022 13:15:54 value 1 plik
+26.03.2022 13:15:54 value 2 plik
+26.03.2022 13:15:54 value 3 plik
+26.03.2022 16:55:55 Example message 1 ...
+26.03.2022 16:55:55 Example message 2 ...
+26.03.2022 16:55:55 Example message 3 ...
+26.03.2022 16:55:55 value 1
+26.03.2022 16:55:55 value 2
+26.03.2022 16:55:55 value 3
+30.03.2022 12:46:26 Example message 1 ...
+30.03.2022 12:46:26 Example message 2 ...
+30.03.2022 12:46:26 Example message 3 ...
+30.03.2022 12:46:26 value 1
+30.03.2022 12:46:26 value 2
+30.03.2022 12:46:26 value 3
+30.03.2022 13:06:58 Example message 1 ...
+30.03.2022 13:06:58 Example message 2 ...
+30.03.2022 13:06:58 Example message 3 ...
+30.03.2022 13:06:58 value 1
+30.03.2022 13:06:58 value 2
+30.03.2022 13:06:58 value 3
+30.03.2022 13:07:46 Example message 1 ...
+30.03.2022 13:07:46 Example message 2 ...
+30.03.2022 13:07:46 Example message 3 ...
+30.03.2022 13:07:46 value 1
+30.03.2022 13:07:46 value 2
+30.03.2022 13:07:46 value 3
+30.03.2022 13:09:12 Example message 1 ... 
+30.03.2022 13:09:12 Example message 2 ... 
+30.03.2022 13:09:12 Example message 3 ... value 1 value 2 value 3 
+30.03.2022 13:21:26 Example message 1 ... 
+30.03.2022 13:22:04 Example message 1 ... 
+30.03.2022 13:24:46 Example message 1 ... 
+30.03.2022 17:51:21 Example message 1 ... 

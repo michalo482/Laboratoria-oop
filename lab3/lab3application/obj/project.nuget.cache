@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kv2vfD/NhF0JTnp0YxmeXcR+3bbPtXBCGlLnPRBPopYucjF2KGB5zSOrvvORJAdoHIOzly/kW5o3VOn2MKzfyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dakko\\source\\repos\\lab3\\lab3application\\lab3application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dakko\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\dakko\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

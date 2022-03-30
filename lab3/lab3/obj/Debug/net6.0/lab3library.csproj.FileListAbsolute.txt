@@ -1,0 +1,12 @@
+C:\Users\dakko\source\repos\lab3\lab3\bin\Debug\net6.0\lab3library.deps.json
+C:\Users\dakko\source\repos\lab3\lab3\bin\Debug\net6.0\lab3library.dll
+C:\Users\dakko\source\repos\lab3\lab3\bin\Debug\net6.0\lab3library.pdb
+C:\Users\dakko\source\repos\lab3\lab3\obj\Debug\net6.0\lab3library.csproj.AssemblyReference.cache
+C:\Users\dakko\source\repos\lab3\lab3\obj\Debug\net6.0\lab3library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakko\source\repos\lab3\lab3\obj\Debug\net6.0\lab3library.AssemblyInfoInputs.cache
+C:\Users\dakko\source\repos\lab3\lab3\obj\Debug\net6.0\lab3library.AssemblyInfo.cs
+C:\Users\dakko\source\repos\lab3\lab3\obj\Debug\net6.0\lab3library.csproj.CoreCompileInputs.cache
+C:\Users\dakko\source\repos\lab3\lab3\obj\Debug\net6.0\lab3library.dll
+C:\Users\dakko\source\repos\lab3\lab3\obj\Debug\net6.0\refint\lab3library.dll
+C:\Users\dakko\source\repos\lab3\lab3\obj\Debug\net6.0\lab3library.pdb
+C:\Users\dakko\source\repos\lab3\lab3\obj\Debug\net6.0\ref\lab3library.dll
