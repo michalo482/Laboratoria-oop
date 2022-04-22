@@ -1,0 +1,12 @@
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\bin\Debug\net6.0\DynamicArray.deps.json
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\bin\Debug\net6.0\DynamicArray.dll
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\bin\Debug\net6.0\DynamicArray.pdb
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.csproj.AssemblyReference.cache
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.AssemblyInfoInputs.cache
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.AssemblyInfo.cs
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.dll
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\obj\Debug\net6.0\refint\DynamicArray.dll
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\obj\Debug\net6.0\DynamicArray.pdb
+C:\Users\dakko\source\repos\DynamicArray\DynamicArray\obj\Debug\net6.0\ref\DynamicArray.dll
