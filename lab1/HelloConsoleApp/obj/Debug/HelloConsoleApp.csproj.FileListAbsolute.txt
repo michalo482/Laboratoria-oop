@@ -1,7 +1,0 @@
-C:\Users\dakko\source\repos\Lab01\HelloConsoleApp\bin\Debug\HelloConsoleApp.exe.config
-C:\Users\dakko\source\repos\Lab01\HelloConsoleApp\bin\Debug\HelloConsoleApp.exe
-C:\Users\dakko\source\repos\Lab01\HelloConsoleApp\bin\Debug\HelloConsoleApp.pdb
-C:\Users\dakko\source\repos\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.csproj.AssemblyReference.cache
-C:\Users\dakko\source\repos\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.csproj.CoreCompileInputs.cache
-C:\Users\dakko\source\repos\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.exe
-C:\Users\dakko\source\repos\Lab01\HelloConsoleApp\obj\Debug\HelloConsoleApp.pdb
