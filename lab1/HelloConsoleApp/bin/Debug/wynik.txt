@@ -1,0 +1,5 @@
+Program na powintanie.
+Podaj swoje imie: Podaj swoje nazwisko: Witaj Michal Ostrowski
+Witaj Michal Ostrowski. Czy Pan Michal rzeczywiscie nazywa sie Ostrowski?
+Podaj swoj wiek: 
+do emerytury zostalo ci 43 lat

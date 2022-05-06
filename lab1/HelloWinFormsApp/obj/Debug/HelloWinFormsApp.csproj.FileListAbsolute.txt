@@ -1,0 +1,10 @@
+C:\Users\dakko\source\repos\Lab01\HelloWinFormsApp\bin\Debug\HelloWinFormsApp.exe.config
+C:\Users\dakko\source\repos\Lab01\HelloWinFormsApp\bin\Debug\HelloWinFormsApp.exe
+C:\Users\dakko\source\repos\Lab01\HelloWinFormsApp\bin\Debug\HelloWinFormsApp.pdb
+C:\Users\dakko\source\repos\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\dakko\source\repos\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.Form1.resources
+C:\Users\dakko\source\repos\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.Properties.Resources.resources
+C:\Users\dakko\source\repos\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.csproj.GenerateResource.cache
+C:\Users\dakko\source\repos\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\dakko\source\repos\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.exe
+C:\Users\dakko\source\repos\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.pdb

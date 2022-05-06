@@ -1,0 +1,7 @@
+C:\Users\dakko\source\repos\Lab01\HelloConsoleAppBatch\bin\Debug\HelloConsoleAppBatch.exe.config
+C:\Users\dakko\source\repos\Lab01\HelloConsoleAppBatch\bin\Debug\HelloConsoleAppBatch.exe
+C:\Users\dakko\source\repos\Lab01\HelloConsoleAppBatch\bin\Debug\HelloConsoleAppBatch.pdb
+C:\Users\dakko\source\repos\Lab01\HelloConsoleAppBatch\obj\Debug\HelloConsoleAppBatch.csproj.CoreCompileInputs.cache
+C:\Users\dakko\source\repos\Lab01\HelloConsoleAppBatch\obj\Debug\HelloConsoleAppBatch.exe
+C:\Users\dakko\source\repos\Lab01\HelloConsoleAppBatch\obj\Debug\HelloConsoleAppBatch.pdb
+C:\Users\dakko\source\repos\Lab01\HelloConsoleAppBatch\obj\Debug\HelloConsoleAppBatch.csproj.AssemblyReference.cache
